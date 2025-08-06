@@ -1,0 +1,22 @@
+# ملفات Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.ipch
+
+# ملفات Debug / Release
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.idb
+*.ipch
+
+# ملفات مؤقتة أخرى
+*.cache
